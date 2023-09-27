@@ -24,7 +24,7 @@
   word-break: keep-all;
   white-space: nowrap;
   background-color: transparent;
-  text-align: left;
+  text-align: center;
 }
 
 .leaflet-legend-item-clickable {
