@@ -21,7 +21,7 @@
   vertical-align: middle;
   display: table-cell;
   word-break: keep-all;
-  white-space: nowrap;
+  white-space: pre;
   background-color: transparent;
   text-align: center;
 }
